@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fee9199-ab44-4345-b156-b61c292d00f6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin/form-horizontal.blade.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/dist/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/grunt/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/grunt/bs-commonjs-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/grunt/bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/grunt/configBridge.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/grunt/sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/affix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/js/transition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/image.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/reset-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/resize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/size.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/mixins/vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/less/wells.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/bootstrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/blue-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/default-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/gray-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/gray.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/green-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/green.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/megna-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/megna.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/purple-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/purple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/colors/red-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/linea-icons/linea.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/css/material-design-iconic-font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/css/material-design-iconic-font.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/css/materialdesignicons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/prepros.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/spinners.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/1favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/1logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/admin-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/admin-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/alert2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/busy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/error-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/headline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/more.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/multiple-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/no-image-found.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/no-photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/no-photo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/powered_by.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/slider/chicago.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/slider/la.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/slider/ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/squares.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/users/arijit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/users/pawandeep.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/users/sonu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/img/users/varun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/bootstrap-test.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/cbpFWTabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/chat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/dashboard1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/flot-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/footable-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/jasny-bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/jquery.PrintArea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/jquery.slimscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/jsgrid-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/mask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/morris-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/real-estate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/toastr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/validator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/waves.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/js/widget-ext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/blue-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/blue.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/default-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/default.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/gray-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/gray.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/green-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/green.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/megna-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/megna.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/purple-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/purple.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/colors/red-dark.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/common.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/fonts/fontawesome-webfont-old.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/extras.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_extras.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_spinning.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-arrows-10.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-arrows-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-arrows-10.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-arrows-10.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-10.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-10.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-10.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-elaboration-10.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-elaboration-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-elaboration-10.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-basic-elaboration-10.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-ecommerce-10.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-ecommerce-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-ecommerce-10.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-ecommerce-10.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-music-10.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-music-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-music-10.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-music-10.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-software-10.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-software-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-software-10.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-software-10.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-weather-10.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-weather-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-weather-10.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/fonts/linea-weather-10.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/linea.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/linea-icons/linea.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/material-design-iconic-font2/css/material-design-iconic-font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/material-design-iconic-font2/css/material-design-iconic-font.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/material-design-iconic-font2/fonts/Material-Design-Iconic-Font.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/material-design-iconic-font2/fonts/Material-Design-Iconic-Font.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/material-design-iconic-font2/fonts/Material-Design-Iconic-Font.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/material-design-iconic-font2/fonts/Material-Design-Iconic-Font.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/material-design-iconic-font2/fonts/Material-Design-Iconic-Font.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/css/simple-line-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/fonts/Simple-Line-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/fonts/Simple-Line-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/fonts/Simple-Line-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/less/simple-line-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/simple-line-icons/scss/simple-line-icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/fonts/themify.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/fonts/themify.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/fonts/themify.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/fonts/themify.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/ie7/ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/ie7/ie7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/themify-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/themify-icons/themify-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/css/weather-icons-core.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/css/weather-icons-variables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/css/weather-icons-wind.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/css/weather-icons-wind.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/css/weather-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/css/weather-icons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/font/weathericons-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/font/weathericons-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/font/weathericons-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/font/weathericons-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/font/weathericons-regular-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-beaufort.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-day.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-direction.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-misc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-moon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-neutral.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-night.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-time.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/css/variables-wind-names.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-beaufort.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-day.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-direction.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-misc.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-moon-aliases.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-moon.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-neutral.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-night.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-time.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-wind-aliases.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-wind-degrees.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-classes/classes-wind.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-beaufort.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-day.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-direction.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-misc.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-moon.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-neutral.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-night.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-time.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/icon-variables/variables-wind-names.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/mappings/wi-forecast-io.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/mappings/wi-owm.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/mappings/wi-wmo4680.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/mappings/wi-yahoo.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/weather-icons-classes.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/weather-icons-core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/weather-icons-variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/weather-icons-wind.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/weather-icons-wind.min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/weather-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/less/weather-icons.min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-beaufort.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-day.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-direction.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-misc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-moon-aliases.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-moon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-neutral.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-night.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-time.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-wind-aliases.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-wind-degrees.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-classes/classes-wind.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-beaufort.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-day.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-direction.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-misc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-moon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-neutral.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-night.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-time.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/icon-variables/variables-wind-names.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/mappings/wi-forecast-io.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/mappings/wi-owm.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/mappings/wi-wmo4680.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/mappings/wi-yahoo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/weather-icons-classes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/weather-icons-core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/weather-icons-variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/weather-icons-wind.min.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/weather-icons-wind.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/weather-icons.min.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/icons/weather-icons/sass/weather-icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/pages.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/responsive.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/sidebar-nav.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/spinners.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/style.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/less/widgets.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/AnimatedSkillsDiagram/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/AnimatedSkillsDiagram/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/AnimatedSkillsDiagram/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/AnimatedSkillsDiagram/js/animated-bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/AnimatedSkillsDiagram/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/AnimatedSkillsDiagram/js/raphael.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/img/deco.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/img/demo-1-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/img/demo-2-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/js/EasePack.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/js/TweenLite.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/js/demo-1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/js/demo-2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/js/demo-3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/js/demo-4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/Animatedbg/js/rAF.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/counterup/jquery.counterup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/Contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/jquery.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/dataTables.bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/dataTables.bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/dataTables.foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/dataTables.foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/dataTables.jqueryui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/dataTables.jqueryui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/jquery.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/jquery.dataTables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/css/jquery.dataTables_themeroller.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/images/Sorting icons.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/images/sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/images/sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/images/sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/images/sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/images/sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/dataTables.bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/dataTables.foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/dataTables.foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/dataTables.jqueryui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/dataTables.jqueryui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/jquery.dataTables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/media/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datatables/sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/date_time_picker/bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/date_time_picker/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/datepicker3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.kk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.kr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.nl-BE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.rs-latin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/datepicker/locales/bootstrap-datepicker.zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/daterangepicker/daterangepicker-bs3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/daterangepicker/daterangepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/daterangepicker/moment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/daterangepicker/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/facebook_emotions/faceMocion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/facebook_emotions/faceMocion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/facebook_emotions/sqhTN9lgaY1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/fancybox_sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/helpers/fancybox_buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/helpers/jquery.fancybox-buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/helpers/jquery.fancybox-buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/helpers/jquery.fancybox-media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/helpers/jquery.fancybox-thumbs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/helpers/jquery.fancybox-thumbs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/jquery.fancybox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/fanchybox/source/jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/html5-editor/bootstrap-wysihtml5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/html5-editor/bootstrap-wysihtml5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/html5-editor/wysihtml5-0.3.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery-validator/jquery-additional-method.1.15.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery-validator/jquery-validator.1.15.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery-validator/jquery-validator.1.15.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/dist/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/dist/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/dist/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/parseJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/attributes/attr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/attributes/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/attributes/prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/attributes/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/attributes/val.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/core/access.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/core/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/core/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/defaultDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/swap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/var/isHidden.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/data/Data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/data/accepts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/data/var/data_priv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/data/var/data_user.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/effects/Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/event/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/event/alias.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/event/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/exports/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/exports/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/intro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/manipulation/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/outro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/queue/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/rnotwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/strundefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/var/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/jquery/src/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/bower.travis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/_template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/area-as-line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/area.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/bar-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/bar-no-axes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/days.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/decimal-custom-hover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/diagonal-xlabels-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/diagonal-xlabels.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/donut-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/donut-formatter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/donut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/dst.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/goals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/lib/example.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/lib/example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/months-no-smooth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/negative.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/no-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/non-continuous.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/non-date.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/quarters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/resize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/stacked_bars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/timestamps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/updating.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/weeks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/examples/years.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/less/morris.core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/lib/morris.area.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/lib/morris.bar.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/lib/morris.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/lib/morris.donut.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/lib/morris.grid.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/lib/morris.hover.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/lib/morris.line.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/morris.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/morris.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/morris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/area/area_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/bar/bar_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/bar/colours.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/commas_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/donut/donut_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/grid/auto_grid_lines_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/grid/set_data_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/grid/y_label_format_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/hover_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/label_series_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/line/line_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/pad_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/lib/parse_time_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/specs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/support/placeholder.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/exemplary/area0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/exemplary/bar0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/exemplary/line0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/exemplary/stacked_bar0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/run.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/morrisjs/spec/viz/visual_specs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/multiselect/css/multi-select.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/multiselect/img/switch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/multiselect/js/jquery.multi-select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/images/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/images/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/images/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/images/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/scripts/jquery.bootstrap.newsbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/news-Ticker-Plugin/scripts/jquery.bootstrap.newsbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/rateyo/jquery.rateyo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/rateyo/jquery.rateyo.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/i18n/zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/select2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/select2.full.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/select2.full.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/select2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/select2.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/select2/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/src/metisMenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sidebar-nav/src/metisMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sweetalert/jquery.sweet-alert.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sweetalert/sweetalert-dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sweetalert/sweetalert.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/sweetalert/sweetalert.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/ajax-init-stack.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/ajax-init.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/bare.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/caption.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/109.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/110.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/ajax-init-tbody.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/charset-test-issue-106.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/hideempty.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/issue-31.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/issue-32.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/issue-35.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/issue-37.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/issue-48-49.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/issue-65.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/issues/issue-74.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/kitchensink-nomodeswitch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/kitchensink.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/modeswitch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/sort-custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/stack.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/stackonly.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/swipe-config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/swipe-container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/swipe-fixcols-media.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/swipe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/demo/toggle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/bare/tablesaw.bare.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/dependencies/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/dependencies/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/dependencies/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/dependencies/respond.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/stackonly/tablesaw.stackonly.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/stackonly/tablesaw.stackonly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/stackonly/tablesaw.stackonly.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/tablesaw-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/tablesaw.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/dist/tablesaw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/docs/columntoggle-minimap.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/docs/mode-switch.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/docs/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/docs/stack.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/docs/swipe-minimap.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.btnmarkup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.columntoggle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.columntoggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.minimap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.minimap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.modeswitch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.skin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.sortable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.stack-default-breakpoint.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.stack-mixin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.stack.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.stack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.swipetoggle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.swipetoggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/src/tables.toolbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/test/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/test/tablesaw.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/test/tablesaw_bare.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/tablesaw-master/test/tablesaw_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/timepicker/bootstrap-timepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/timepicker/bootstrap-timepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/timepicker/bootstrap-timepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/timepicker/bootstrap-timepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/toast-master/css/jquery.toast.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/toast-master/js/jquery.toast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/countries.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/bloodhound.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/bloodhound.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/typeahead-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/typeahead.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/typeahead.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/typeahead.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/typeahead.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/dist/typehead-min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/doc/bloodhound.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/doc/jquery_typeahead.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/doc/migration/0.10.0.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/nba.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/nfl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/nhl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/bloodhound.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/lru_cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/options_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/persistent_storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/prefetch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/remote.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/search_index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/tokenizers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/bloodhound/version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/common/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/dataset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/default_menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/event_bus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/event_emitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/input.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/typeahead.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/src/typeahead/www.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/bloodhound_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/lru_cache_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/options_parser_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/persistent_storage_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/prefetch_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/remote_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/search_index_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/tokenizers_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/bloodhound/transport_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/ci" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/fixtures/ajax_responses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/fixtures/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/fixtures/html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/helpers/typeahead_mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/integration/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/integration/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/playground.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/dataset_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/default_results_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/event_bus_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/event_emitter_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/highlight_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/input_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/plugin_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/results_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/test/typeahead/typeahead_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typeahead.js-master/typeahead.js.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typed.js-master/dist/typed.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/typed.js-master/js/typed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/jquery.waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/noframework.waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/noframework.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/shortcuts/infinite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/shortcuts/infinite.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/shortcuts/inview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/shortcuts/inview.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/shortcuts/sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/shortcuts/sticky.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/waypoints.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/zepto.waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/admin_assets/plugins/bower_components/waypoints/lib/zepto.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/adminHome.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/role/add_user_permission.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/role/form.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/role/index.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/user/add_user.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/user/admin_changePassword.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/user/changePassword.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/user/edit_user.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/user/index.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/user/user/profile.blade.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/master.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/master.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/master.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12035">
+              <caret line="907" column="0" lean-forward="false" selection-start-line="907" selection-start-column="0" selection-end-line="907" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-horizontal.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/form-horizontal.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding>
+                <element signature="e#247#7392#0#HTML" expanded="false" />
+                <element signature="e#7471#14645#0#HTML" expanded="false" />
+                <element signature="e#14724#19314#0#HTML" expanded="false" />
+                <element signature="e#19393#24308#0#HTML" expanded="false" />
+                <element signature="e#24387#37169#0#HTML" expanded="false" />
+                <element signature="e#37248#47620#0#HTML" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="44" column="38" lean-forward="false" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DashboardController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>page-content</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\xampp\htdocs\luxe\resources\views\admin</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/form-horizontal.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/DashboardController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luxe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\luxe\resources\views\admin" />
+      <recent name="D:\xampp\htdocs\luxe\resources\views" />
+      <recent name="D:\xampp\htdocs\luxe\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fee9199-ab44-4345-b156-b61c292d00f6" name="Default" comment="" />
+      <created>1561739386818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561739386818</updated>
+      <workItem from="1561739387988" duration="3987000" />
+      <workItem from="1561750936694" duration="3597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7584000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17561762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="38" lean-forward="true" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/admin_assets/js/chat.js" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/user/role/form.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="44" column="38" lean-forward="false" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12035">
+          <caret line="907" column="0" lean-forward="false" selection-start-line="907" selection-start-column="0" selection-end-line="907" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/form-horizontal.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <element signature="e#247#7392#0#HTML" expanded="false" />
+            <element signature="e#7471#14645#0#HTML" expanded="false" />
+            <element signature="e#14724#19314#0#HTML" expanded="false" />
+            <element signature="e#19393#24308#0#HTML" expanded="false" />
+            <element signature="e#24387#37169#0#HTML" expanded="false" />
+            <element signature="e#37248#47620#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DashboardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
